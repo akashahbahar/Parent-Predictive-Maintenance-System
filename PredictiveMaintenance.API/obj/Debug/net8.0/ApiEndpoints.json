@@ -1,0 +1,28 @@
+[
+  {
+    "ContainingType": "PredictiveMaintenanceAPI.Controllers.InferenceController",
+    "Method": "Post",
+    "RelativePath": "api/Inference",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "input",
+        "Type": "PredictiveMaintenanceSystem.ModelInput",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "PredictiveMaintenanceSystem.ModelOutput",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  }
+]

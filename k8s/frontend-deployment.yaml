@@ -1,0 +1,31 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: predictive-frontend
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: predictive-frontend
+  template:
+    metadata:
+      labels:
+        app: predictive-frontend
+    spec:
+      containers:
+        - name: predictive-frontend
+          image: predictive-frontend:latest
+          ports:
+            - containerPort: 80
+---
+apiVersion: v1
+kind: Service
+metadata:
+  name: predictive-frontend-service
+spec:
+  selector:
+    app: predictive-frontend
+  ports:
+    - port: 80
+      targetPort: 80
+  type: NodePort

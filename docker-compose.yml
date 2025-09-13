@@ -1,0 +1,22 @@
+﻿version: "3.9"
+
+services:
+  frontend:
+    image: predictive-maintenance-frontend
+    build:
+      context: ./predictive-maintenance-frontend
+      dockerfile: Dockerfile
+    ports:
+      - "8080:80"
+    depends_on:
+      - api
+
+  api:
+    image: predictive-maintenance-api
+    build:
+      context: .
+      dockerfile: ./PredictiveMaintenance.API/Dockerfile
+    ports:
+      - "5000:8080" # map host 5000 -> container 8080 (ASP.NET default in Docker)
+    volumes:
+      - ./PredictiveMaintenance.API/model.zip:/app/model.zip
