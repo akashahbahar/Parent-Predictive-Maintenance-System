@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\Admin\\source\\repos\\PredictiveMaintenanceSystem\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{BFC004D4-A294-40EA-8305-483E304FC589}|..\\PredictiveMaintenance.API\\PredictiveMaintenance.API.csproj|c:\\users\\admin\\source\\repos\\predictivemaintenance.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{BFC004D4-A294-40EA-8305-483E304FC589}|..\\PredictiveMaintenance.API\\PredictiveMaintenance.API.csproj|c:\\users\\admin\\source\\repos\\predictivemaintenance.api\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFC004D4-A294-40EA-8305-483E304FC589}|..\\PredictiveMaintenance.API\\PredictiveMaintenance.API.csproj|c:\\users\\admin\\source\\repos\\predictivemaintenance.api\\predictivemaintenance.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{022DAE34-A6DC-4C91-AB4E-EF2771FCC12D}|PredictiveMaintenanceSystem.csproj|c:\\users\\admin\\source\\repos\\predictivemaintenancesystem\\inference.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{022DAE34-A6DC-4C91-AB4E-EF2771FCC12D}|PredictiveMaintenanceSystem.csproj|solutionrelative:inference.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BFC004D4-A294-40EA-8305-483E304FC589}|..\\PredictiveMaintenance.API\\PredictiveMaintenance.API.csproj|c:\\users\\admin\\source\\repos\\predictivemaintenance.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{BFC004D4-A294-40EA-8305-483E304FC589}|..\\PredictiveMaintenance.API\\PredictiveMaintenance.API.csproj|c:\\users\\admin\\source\\repos\\predictivemaintenance.api\\controllers\\predictioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BFC004D4-A294-40EA-8305-483E304FC589}|..\\PredictiveMaintenance.API\\PredictiveMaintenance.API.csproj|c:\\users\\admin\\source\\repos\\predictivemaintenance.api\\predictivemaintenance.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BFC004D4-A294-40EA-8305-483E304FC589}|..\\PredictiveMaintenance.API\\PredictiveMaintenance.API.csproj|c:\\users\\admin\\source\\repos\\predictivemaintenance.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
@@ -32,7 +32,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 252,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -44,20 +44,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Dockerfile",
               "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\PredictiveMaintenance.API\\Dockerfile",
               "RelativeDocumentMoniker": "..\\PredictiveMaintenance.API\\Dockerfile",
               "ToolTip": "C:\\Users\\Admin\\source\\repos\\PredictiveMaintenance.API\\Dockerfile",
               "RelativeToolTip": "..\\PredictiveMaintenance.API\\Dockerfile",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAALAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-09-09T16:44:06.336Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-09T16:44:06.336Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Inference.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\PredictiveMaintenanceSystem\\Inference.cs",
               "RelativeDocumentMoniker": "Inference.cs",
@@ -65,37 +64,36 @@
               "RelativeToolTip": "Inference.cs",
               "ViewState": "AgIAAB8AAAAAAAAAAAAIwCQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-09T15:45:40.488Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-09T15:45:40.488Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\PredictiveMaintenance.API\\Program.cs",
               "RelativeDocumentMoniker": "..\\PredictiveMaintenance.API\\Program.cs",
               "ToolTip": "C:\\Users\\Admin\\source\\repos\\PredictiveMaintenance.API\\Program.cs",
               "RelativeToolTip": "..\\PredictiveMaintenance.API\\Program.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABIAAAAmAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABUAAABMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-09T15:40:05.634Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "PredictiveMaintenance.API.csproj",
               "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\PredictiveMaintenance.API\\PredictiveMaintenance.API.csproj",
               "RelativeDocumentMoniker": "..\\PredictiveMaintenance.API\\PredictiveMaintenance.API.csproj",
               "ToolTip": "C:\\Users\\Admin\\source\\repos\\PredictiveMaintenance.API\\PredictiveMaintenance.API.csproj",
               "RelativeToolTip": "..\\PredictiveMaintenance.API\\PredictiveMaintenance.API.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2025-09-08T14:08:46.825Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "PredictionController.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\PredictiveMaintenance.API\\Controllers\\PredictionController.cs",
               "RelativeDocumentMoniker": "..\\PredictiveMaintenance.API\\Controllers\\PredictionController.cs",

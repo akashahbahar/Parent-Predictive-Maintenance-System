@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PredictiveMaintenance.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+316491edc1107cb2cd530000ddcc74880f5adc3c")]
 [assembly: System.Reflection.AssemblyProductAttribute("PredictiveMaintenance.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PredictiveMaintenance.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

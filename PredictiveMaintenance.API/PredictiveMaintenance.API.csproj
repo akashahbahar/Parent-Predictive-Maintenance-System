@@ -21,4 +21,10 @@
     <ProjectReference Include="..\PredictiveMaintenanceSystem\PredictiveMaintenanceSystem.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <None Update="model.zip">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+
 </Project>
